@@ -4,7 +4,7 @@
 
 # Docker Images 
 
-docker pull stacksimplify/kubenginx:1.0.0
-docker pull stacksimplify/kubenginx:2.0.0
-docker pull stacksimplify/kubenginx:3.0.0
-docker pull stacksimplify/kubenginx:4.0.0
+- docker pull stacksimplify/kubenginx:1.0.0
+- docker pull stacksimplify/kubenginx:2.0.0
+- docker pull stacksimplify/kubenginx:3.0.0
+- docker pull stacksimplify/kubenginx:4.0.0
